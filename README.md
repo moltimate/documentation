@@ -1,2 +1,2 @@
 # documentation
-Repo Storage place for HTML Docs used to embed the Google Drive Documents
+Moltimate's Documentation. Used for hosting Google Drive docs to the public
